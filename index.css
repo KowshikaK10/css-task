@@ -1,0 +1,68 @@
+
+body {
+    background-image: url('https://www.codepel.com/wp-content/uploads/2023/03/Animated-Website-Background-With-Html5.png');
+  }
+  header {
+   padding: 20px;
+  }
+  header nav{
+     font-size: larger;
+     text-align:  right;   
+  }
+  nav a{
+    width: 20%; 
+    padding: 5px 30px;
+    text-decoration: none;
+    color: white;  
+  }
+  a:hover{
+    color: red;
+  }
+  main{
+    text-align: center;
+    font-size: xx-large;
+  }
+  main a img{
+    width: 650px;
+  }
+  main button{
+    background-color: #94b7ec;
+    border: none;
+    text-align: center;
+    font-size: 16px;
+    padding: 15px 32px;
+    cursor: pointer;
+  }
+  button:hover{
+    background-color: antiquewhite;
+  }
+  footer{
+    background-color: antiquewhite;    
+    width: 100%;
+  }
+
+  .fa {
+    padding: 20px;
+    width: 10px;    
+    text-align: center;
+    text-decoration: none;
+    margin: 5px;
+    background-color: antiquewhite;
+    color: black;
+  }
+  .fa:hover {
+    opacity: 0.4;
+  }
+  ul {
+    list-style-type: none;
+  }
+  a{
+    text-decoration: none;
+    color: rgb(58, 55, 55);
+    font-size: larger;
+  }  
+  .footerContent, .h2 , .footer_bottom {
+    text-align: center;
+  }
+  
+  
